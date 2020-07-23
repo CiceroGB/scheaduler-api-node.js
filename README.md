@@ -54,6 +54,6 @@ If you are in development environment:
 yarn dev
 ```
 ##
-<h10>Inspired by the project developed by Rocketseat</h10>
+###### Inspired by the project developed by Rocketseat
 
 

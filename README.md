@@ -22,7 +22,7 @@ This project was developedwith the following technologies:
 Clone the project:
 
 ```sh
-git clone https://github.com/CiceroGB/scheduler-api-node.js
+git clone https://github.com/cicerogb/scheduler-api-node.js
 ```
 
 Install the dependencies:

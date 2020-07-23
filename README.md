@@ -9,11 +9,8 @@ This project was developedwith the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [nodemon](https://nodemon.io/)
-- [Sucrase](https://github.com/alangpierce/sucrase)
 - [Sequelize](http://docs.sequelizejs.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [node-postgres](https://www.npmjs.com/package/pg)
+- [Mongoose](https://mongoosejs.com/)
 - [JWT](https://jwt.io/)
 - [Bcrypt](https://www.npmjs.com/package/bcrypt)
 - [Yup](https://www.npmjs.com/package/yup)

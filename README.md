@@ -1,7 +1,7 @@
 Scheduler API
 =================
 
-<h6>Scheduling app that allows users to schedule an appointment with their provider and show the provider their schedule for the day.</h6>
+Scheduling app that allows users to schedule an appointment with their provider and show the provider their schedule for the day.
 
 ## Technologies
 
@@ -53,5 +53,5 @@ If you are in development environment:
 ```sh
 yarn dev
 ```
-
+<h7>Inspired by the project developed by Rocketseat</h7>
 

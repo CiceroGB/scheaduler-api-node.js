@@ -54,6 +54,4 @@ If you are in development environment:
 yarn dev
 ```
 
-## :memo: License
 
-This project is under the MIT license.

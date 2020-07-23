@@ -53,5 +53,7 @@ If you are in development environment:
 ```sh
 yarn dev
 ```
-<h7>Inspired by the project developed by Rocketseat</h7>
+=================
+<h10>Inspired by the project developed by Rocketseat</h10>
+=================
 
